@@ -1,0 +1,38 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    color: black;
+}
+.menu{
+    margin-top: 15em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    box-shadow: white 0px 2px 8px 0px;
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: white 0px 2px 8px 0px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,49 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    color: black;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.mono{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50px;
+    height: 30px;
+    background-color: white;
+    color: black;
+}
+.elmono{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.volver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+}
+.sorpresa{
+    width: 370px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
